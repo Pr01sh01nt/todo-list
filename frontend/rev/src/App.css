@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+}
+
+form{
+  border : solid black;
+  /* margin: 10px; */
+  border-radius: 2ch;
+
+  text-align: center;
+  margin: 0 auto;  
+  overflow:auto;
+}
+
+
+li{
+ padding: 1%;
+}
+
+
+
+
+
+button,
+input {
+  font-family: inherit;
+  font-size: 100%;
+  width: 150px;
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  padding: 5px;
+  font: bold 0.6em sans-serif;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background: none;
+  cursor: pointer;
+  transform: rotate(0deg);
+}
+
+
+
+button:hover,
+button:focus {
+  background: #000;
+  color: #fff;
+}

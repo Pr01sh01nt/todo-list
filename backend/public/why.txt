@@ -1,0 +1,3 @@
+stores static files
+
+virtual directory(in express.static middlewhere)

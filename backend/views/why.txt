@@ -1,0 +1,3 @@
+stores files related to templete engine 
+
+used by app.set()
